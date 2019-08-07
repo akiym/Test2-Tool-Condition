@@ -43,7 +43,7 @@
       "runtime" : {
          "requires" : {
             "Test2" : "1.302160",
-            "Test2::Suite" : "0.000077"
+            "Test2::Suite" : "0.000122"
          }
       },
       "test" : {
@@ -64,7 +64,7 @@
          "web" : "https://github.com/akiym/Test2-Tools-Condition"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_authority" : "cpan:AKIYM",
    "x_serialization_backend" : "JSON::PP version 4.04",
    "x_static_install" : 1
